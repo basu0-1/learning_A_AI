@@ -7,6 +7,6 @@
 </p>
 
 Certificate
-🧠 Foundations of Agentic AI in GitHub
-⚙️ Designing Agent Architecture and SDLC Integration
-🤖 Tooling, MCP, and Agent Execution Environments
+- 🧠 Foundations of Agentic AI in GitHub
+- ⚙️ Designing Agent Architecture and SDLC Integration
+- 🤖 Tooling, MCP, and Agent Execution Environments
