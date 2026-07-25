@@ -6,8 +6,7 @@
   </a>
 </p>
 
-| Certificate | Credential |
-|-------------|------------|
-| 🧠 Foundations of Agentic AI in GitHub | [📄 View Certificate](./Developing%20in%20Agentic%20AI%20Systems/Foundations%20of%20Agentic%20AI%20in%20GitHub.pdf) |
-| ⚙️ Designing Agent Architecture and SDLC Integration | [📄 View Certificate](./Developing%20in%20Agentic%20AI%20Systems/Designing%20Agent%20Architecture%20and%20SDLC%20Integration.pdf) |
-| 🤖 Tooling, MCP, and Agent Execution Environments | [📄 View Certificate](./Developing%20in%20Agentic%20AI%20Systems/Tooling,%20MCP,%20and%20Agent%20Execution%20Environments.pdf) |
+Certificate
+🧠 Foundations of Agentic AI in GitHub
+⚙️ Designing Agent Architecture and SDLC Integration
+🤖 Tooling, MCP, and Agent Execution Environments
